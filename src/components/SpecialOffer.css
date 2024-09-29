@@ -1,0 +1,14 @@
+.bg-footer{
+    background-image: url("./Vector\ 2.png");
+    height: 1000px;
+    width: 100%;
+    background-size: cover;
+}
+.ellipse{
+    background-image: url("./Ellipse\ 9.png");
+    height: 700px;
+    width: auto;
+    color: black;
+    background-size: cover;
+    margin-top: 80px;
+}
